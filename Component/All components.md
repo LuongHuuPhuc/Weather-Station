@@ -17,7 +17,7 @@ Size: 24.8 x 14.3mm
 7>GPIO0: pull down for upgrade firmware regime and using like normal General Purpose Input and Output
 8>GPIO2: using like normal General Purpose Input and Output
 
-#SSD1306 OLED 0'96 inch
+# SSD1306 OLED 0'96 inch
 -Specific:
 Control chip: SSD1306
 Display area: 21.744 x 10864mm
