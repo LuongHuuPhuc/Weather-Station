@@ -27,7 +27,7 @@
  **************************/
 
 // WIFI
-const char* WIFI_SSID = "yourssid";
+const char* WIFI_SSID = "yourssid";　// Thiết bị phát sóng Wifi của bạn (Điện thoại, Router,..)
 const char* WIFI_PWD = "yourpassw0rd";
 
 #define TZ              7       // (utc+) TZ in hours
