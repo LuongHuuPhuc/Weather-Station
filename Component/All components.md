@@ -1,4 +1,4 @@
-# Esp8266-01 Wife Wireless
+# Esp8266-01 Wireless
 -Specific:
 * Voltage using: 3.3VDC
 * Electric consumption : Max 320mA (Better using a separate power supply module for the circuit).
